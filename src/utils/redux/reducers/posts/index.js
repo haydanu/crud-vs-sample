@@ -37,7 +37,7 @@ const PostReducer = (state = initialState, action) => {
       state = {
         ...state,
         error: {
-          message: 'Error',
+          message: 'Error in retrieving data',
         },
         loadingRetrievePost: false,
       };
@@ -52,7 +52,7 @@ const PostReducer = (state = initialState, action) => {
       state = {
         ...state,
         error: {
-          message: 'Error',
+          message: 'Error in adding data',
         },
         loadingAddNewPost: false,
       };
@@ -72,7 +72,7 @@ const PostReducer = (state = initialState, action) => {
       state = {
         ...state,
         error: {
-          message: 'Error',
+          message: 'Error in deleting data',
         },
         loadingDeletePost: false,
       };
@@ -92,7 +92,7 @@ const PostReducer = (state = initialState, action) => {
       state = {
         ...state,
         error: {
-          message: 'Error',
+          message: 'Error in updating data',
         },
         loadingUpdatePost: false,
       };
