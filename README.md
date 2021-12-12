@@ -1,6 +1,6 @@
 # CRUD VS SAMPLE PROJECT
 
-Please set copy and paste the `env.sample` to your local environment to use this app.
+Copy and paste the `env.sample` to your local environment to run this project.
 
 ## Available Scripts
 
