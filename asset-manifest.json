@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/crud-vs-sample/static/js/main.e65bb493.chunk.js",
-    "main.js.map": "/crud-vs-sample/static/js/main.e65bb493.chunk.js.map",
+    "main.js": "/crud-vs-sample/static/js/main.6d2c5a0b.chunk.js",
+    "main.js.map": "/crud-vs-sample/static/js/main.6d2c5a0b.chunk.js.map",
     "runtime-main.js": "/crud-vs-sample/static/js/runtime-main.b3dff2eb.js",
     "runtime-main.js.map": "/crud-vs-sample/static/js/runtime-main.b3dff2eb.js.map",
-    "static/js/2.d2fb488b.chunk.js": "/crud-vs-sample/static/js/2.d2fb488b.chunk.js",
-    "static/js/2.d2fb488b.chunk.js.map": "/crud-vs-sample/static/js/2.d2fb488b.chunk.js.map",
+    "static/js/2.51feb246.chunk.js": "/crud-vs-sample/static/js/2.51feb246.chunk.js",
+    "static/js/2.51feb246.chunk.js.map": "/crud-vs-sample/static/js/2.51feb246.chunk.js.map",
     "index.html": "/crud-vs-sample/index.html",
-    "static/js/2.d2fb488b.chunk.js.LICENSE.txt": "/crud-vs-sample/static/js/2.d2fb488b.chunk.js.LICENSE.txt"
+    "static/js/2.51feb246.chunk.js.LICENSE.txt": "/crud-vs-sample/static/js/2.51feb246.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b3dff2eb.js",
-    "static/js/2.d2fb488b.chunk.js",
-    "static/js/main.e65bb493.chunk.js"
+    "static/js/2.51feb246.chunk.js",
+    "static/js/main.6d2c5a0b.chunk.js"
   ]
 }
